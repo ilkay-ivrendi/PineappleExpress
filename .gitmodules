@@ -1,0 +1,6 @@
+[submodule "PineappleExpress-Server"]
+	path = PineappleExpress-Server
+	url = https://github.com/ilkay-ivrendi/PineappleExpress-Server.git
+[submodule "PineappleExpress-Client"]
+	path = PineappleExpress-Client
+	url = https://github.com/ilkay-ivrendi/PineappleExpress-Client.git
